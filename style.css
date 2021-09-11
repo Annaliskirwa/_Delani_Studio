@@ -75,50 +75,50 @@ body{
 }
 #text1{
     display: none;
-    position: absolute;
-    top: 20px;
-    left: 10px;
+    position: relative;
+    bottom: 70%;
+    left: 10%;
 }
 #text2{
     display: none;
-    position: absolute;
-    top: 20%;
+    position: relative;
+    bottom: 70%;
     left: 10%;
 }
 #text3{
     display: none;
-    position: absolute;
-    top: 20%;
+    position: relative;
+    bottom: 70%;
     left: 10%;
 }
 #text4{
     display: none;
-    position: absolute;
-    top: 20%;
+    position: relative;
+    bottom: 70%;
     left: 10%;
 }
 #text5{
     display: none;
-    position: absolute;
-    top: 20%;
+    position: relative;
+    bottom: 70%;
     left: 10%;
 }
 #text6{
     display: none;
-    position: absolute;
-    top: 20%;
+    position: relative;
+    bottom: 70%;
     left: 10%;
 }
 #text7{
     display: none;
-    position: absolute;
-    top: 20%;
+    position: relative;
+    bottom: 70%;
     left: 10%;
 }
 #text8{
     display: none;
-    position: absolute;
-    top: 20%;
+    position: relative;
+    bottom: 70%;
     left: 10%;
 }
 .fade{
