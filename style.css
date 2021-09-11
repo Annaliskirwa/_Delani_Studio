@@ -68,6 +68,7 @@ body{
 .portfolio{
     margin-left: 15px;
     margin-right: 15px;
+    padding-bottom: 30px;
 }
 .portfolio h4{
     text-align: center;
@@ -139,3 +140,4 @@ body{
 .fade{
     opacity: 0;
 }
+/*Styling the contact section*/
