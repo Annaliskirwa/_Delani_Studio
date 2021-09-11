@@ -79,6 +79,7 @@ body{
     bottom: 70%;
     left: 10%;
     color: white;
+    font-weight: bolder;
 }
 #text2{
     display: none;
@@ -86,6 +87,7 @@ body{
     bottom: 70%;
     left: 10%;
     color: white;
+    font-weight: bolder;
 }
 #text3{
     display: none;
@@ -93,6 +95,7 @@ body{
     bottom: 70%;
     left: 10%;
     color: white;
+    font-weight: bolder;
 }
 #text4{
     display: none;
@@ -100,6 +103,7 @@ body{
     bottom: 70%;
     left: 10%;
     color: white;
+    font-weight: bolder;
 }
 #text5{
     display: none;
@@ -107,6 +111,7 @@ body{
     bottom: 70%;
     left: 10%;
     color: white;
+    font-weight: bolder;
 }
 #text6{
     display: none;
@@ -114,6 +119,7 @@ body{
     bottom: 70%;
     left: 10%;
     color: white;
+    font-weight: bolder;
 }
 #text7{
     display: none;
@@ -121,6 +127,7 @@ body{
     bottom: 70%;
     left: 10%;
     color: white;
+    font-weight: bolder;
 }
 #text8{
     display: none;
@@ -128,6 +135,7 @@ body{
     bottom: 70%;
     left: 10%;
     color: white;
+    font-weight: bolder;
 }
 .fade{
     opacity: 0;
