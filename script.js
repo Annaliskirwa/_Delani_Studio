@@ -84,7 +84,8 @@ $("#col1").hover(function() {
                           $("#text8").fadeTo("slow",0);
                           $("#pic8").fadeTo("slow",1);
                         });
-
+/*Mouse click */
+$(".mousee").click({ scrollTop: $("#portfolio").scrollTop() }, 1000);
 /*Business logic */
 $("form").submit(function() {
     var name= $("input#name").val();
