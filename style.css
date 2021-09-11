@@ -149,3 +149,27 @@ body{
     padding: 90px;
     text-align: center;
 }
+.contacts input[type="text"]{
+    border: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.contacts input[type="email"]{
+    border: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.contacts textarea{
+    border: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
