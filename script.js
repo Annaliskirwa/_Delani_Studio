@@ -16,4 +16,12 @@ $(document).ready(function(){
         $("div#development-content").toggle();
         $("div#development").toggle();
       });
+    $("div#product").click(function() {
+        $("div#product-content").toggle();
+        $("div#product").toggle();
+      });
+    $("div#product-content").click(function() {
+        $("div#product-content").toggle();
+        $("div#product").toggle();
+      });
 });
