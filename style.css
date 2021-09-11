@@ -1,8 +1,10 @@
+/*Styling the body content*/
 body{
     width: 100%;
     overflow-x: hidden;
     font-family: sans-serif;
 }
+/*Styling the home section*/
 .home{
     background-image: url(assets/backgrounds/h_img.jpg);
     background-repeat: no-repeat;
@@ -27,4 +29,12 @@ body{
 }
 .home .mouse{
     margin-top: 80px;
+}
+/*Styling the about section*/
+.about{
+    text-align: center;
+    padding: 50px 0;
+}
+.about p{
+    font-size: small;
 }
