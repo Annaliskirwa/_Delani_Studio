@@ -14,3 +14,17 @@ body{
     padding: 150px;
     position: relative;
 }
+.home .logo{
+    margin-top: 10px;
+}
+.home h1{
+    margin-top: 20px;
+    font-size: 35px;
+}
+.home p{
+    margin-top: 15px;
+    font-size: 10px;
+}
+.home .mouse{
+    margin-top: 80px;
+}
