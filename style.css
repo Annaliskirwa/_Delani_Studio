@@ -149,6 +149,9 @@ body{
     padding: 90px;
     text-align: center;
 }
+.contacts h4{
+    color: white;
+}
 .contacts input[type="text"]{
     border: 1px solid #fff;
     background: transparent;
@@ -172,4 +175,11 @@ body{
     height: 40px;
     color: #fff;
     font-size: 16px;
+}
+.contacts ::placeholder{
+    color: white;
+}
+/*Styling the icons*/
+.icons{
+    padding-top: 50px;
 }
