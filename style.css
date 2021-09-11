@@ -38,3 +38,14 @@ body{
 .about p{
     font-size: small;
 }
+/*Styling the services section*/
+.services{
+    background-image: url(assets/backgrounds/s_image.jpg);
+    background-size: cover;
+    height:300px;
+    text-align: center;
+    padding: 85px;
+    color: azure;
+    font-size: 90%;
+    position: relative;
+}
