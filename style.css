@@ -64,3 +64,59 @@ body{
 #product-content{
     display: none;
 }
+/*Styling the portfolio*/
+.portfolio{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.portfolio h4{
+    text-align: center;
+}
+#text1{
+    display: none;
+    position: relative;
+    text-align: left;
+    text-shadow: 1px 1px #ffffff;
+}
+#text2{
+    display: none;
+    position: relative;
+    text-align: left;
+    text-shadow: 1px 1px #ffffff;
+}
+#text3{
+    display: none;
+    position: relative;
+    text-align: left;
+    text-shadow: 1px 1px #ffffff;
+}
+#text4{
+    display: none;
+    position: relative;
+    text-align: left;
+    text-shadow: 1px 1px #ffffff;
+}
+#text5{
+    display: none;
+    position: relative;
+    text-align: left;
+    text-shadow: 1px 1px #ffffff;
+}
+#text6{
+    display: none;
+    position: relative;
+    text-align: left;
+    text-shadow: 1px 1px #ffffff;
+}
+#text7{
+    display: none;
+    position: relative;
+    text-align: left;
+    text-shadow: 1px 1px #ffffff;
+}
+#text8{
+    display: none;
+    position: relative;
+    text-align: left;
+    text-shadow: 1px 1px #ffffff;
+}
