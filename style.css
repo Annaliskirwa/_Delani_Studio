@@ -180,3 +180,7 @@ body{
     color: white;
 }
 /*Styling the icons*/
+.icons{
+    margin-left: 250px;
+    padding: 50px 0;
+}
