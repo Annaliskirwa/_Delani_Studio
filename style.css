@@ -52,6 +52,9 @@ body{
 .whatwedo{
     text-align: center;
 }
+.whatwedo .row{
+    padding: 30px 0;
+}
 #design-content{
     display: none;
 }
