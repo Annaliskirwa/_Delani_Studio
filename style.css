@@ -48,4 +48,16 @@ body{
     color: azure;
     font-size: 90%;
     position: relative;
+}/*Styling the what we do section*/
+.whatwedo{
+    text-align: center;
+}
+#design-content{
+    display: none;
+}
+#development-content{
+    display: none;
+}
+#product-content{
+    display: none;
 }
