@@ -85,11 +85,12 @@ $("#col1").hover(function() {
                           $("#pic8").fadeTo("slow",1);
                         });
 /*Mouse click */
-$(".mousee").click({ scrollTop: $("#portfolio").scrollTop() }, 1000);
+/*$(".mousee").click({ scrollTop: $("#portfolio").scrollTop() }, 1000);
 /*Business logic */
 $("form").submit(function() {
     var name= $("input#name").val();
     alert("We've received your message "+name+". Thank you for contacting us");
+    $("form").trigger("reset");
     event.preventDefault();
   });
 });
