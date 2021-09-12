@@ -34,7 +34,9 @@ There are no known bugs at the moment.
 * CSS - For styling the web app
 * Javascript - For document object manipulation and user interactivity
 * Bootstrap - For styling the interface and responsiveness  
-* JQuery - For enhanced interactivity, animations effect on the webpage,toggling effects.
+* JQuery - For enhanced interactivity, animations effect on the webpage,toggling effects.  
+## Design  
+The design of the page can be found <a href = "https://raw.githubusercontent.com/jonnygovish/IP3/master/%20Delani%20Studio.jpg">here</a>.  
 ## Support and contact details
 In case of any problem while interacting with the application, reach out to me at annalis.kirwa@student.moringaschool.com
 ### License.
