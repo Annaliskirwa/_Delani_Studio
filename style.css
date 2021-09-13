@@ -188,3 +188,9 @@ body{
 .footer{
     text-align: center;
 }
+/*Media queries*/
+@media(min-width:768px){
+    body{
+        min-height: 100%;
+    }
+}
